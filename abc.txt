@@ -5,3 +5,4 @@ line 3-4 middle
 a
 b
 line 4
+line 5
